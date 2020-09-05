@@ -60,8 +60,7 @@ const LoginScreenComponent = () => {
             }
         
         />
-        </View>
-        
+        </View>        
     </View>
 }
 
